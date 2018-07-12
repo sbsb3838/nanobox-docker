@@ -1,3 +1,6 @@
 [submodule "plugin/flask-admin"]
 	path = plugin/flask-admin
 	url = https://github.com/3838438-cc/flask-admin.git
+[submodule "src/nanobox"]
+	path = src/nanobox
+	url = https://github.com/3838438-cc/nanobox.git

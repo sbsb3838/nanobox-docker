@@ -3,6 +3,7 @@
 echo "nanobox-虚拟机管理合"
 git submodule add -f https://github.com/3838438-cc/nanobox.git src/nanobox
 git submodule add -f https://github.com/3838438-cc/nanobox-discourse.git src/nanobox-discourse
+git submodule add -f https://github.com/sbsb3838/gitkube.git src/gitkube
 
 git submodule add  -f https://github.com/3838438-cc/nanobox-flask.git plugin/nanobox-flask
 
