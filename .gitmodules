@@ -1,0 +1,3 @@
+[submodule "plugin/flask-admin"]
+	path = plugin/flask-admin
+	url = https://github.com/3838438-cc/flask-admin.git
