@@ -8,6 +8,5 @@ git submodule add -f https://github.com/sbsb3838/gitkube.git src/gitkube
 git submodule add  -f https://github.com/3838438-cc/nanobox-flask.git plugin/nanobox-flask
 
 
-git submodule add  -f https://github.com/3838438-cc/nanobox-rails.git plugin/nanobox-flask
 git submodule foreach --recursive git checkout master
 git submodule foreach git pull

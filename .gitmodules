@@ -4,3 +4,9 @@
 [submodule "src/nanobox"]
 	path = src/nanobox
 	url = https://github.com/3838438-cc/nanobox.git
+[submodule "src/gitkube"]
+	path = src/gitkube
+	url = https://github.com/sbsb3838/gitkube.git
+[submodule "plugin/nanobox-flask"]
+	path = plugin/nanobox-flask
+	url = https://github.com/3838438-cc/nanobox-flask.git
