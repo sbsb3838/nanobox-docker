@@ -2,7 +2,14 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/doc/etl-tools" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/doc/ipython-dashboard" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/doc/web-scraping" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/plugin/nanobox-adapter-ubuntu" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/plugin/nanobox-engine-golang" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/plugin/nanobox-flask" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/plugin/shaman" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/gitkube" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/nanobox" vcs="Git" />
   </component>
 </project>

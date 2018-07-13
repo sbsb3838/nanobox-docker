@@ -2,8 +2,11 @@
 
 git submodule init
 
+
+git submodule add -f https://github.com/sbsb3838/awesome-etl.git doc/etl-tools
 git submodule add -f https://github.com/sbsb3838/IPython-Dashboard.git doc/ipython-dashboard
 git submodule add -f https://github.com/b-3838438/awesome-web-scraping.git doc/web-scraping
+git submodule add
 
 echo "nanobox-虚拟机管理合"
 git submodule add -f https://github.com/sbsb3838/nanobox.git src/nanobox

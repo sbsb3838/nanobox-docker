@@ -19,3 +19,15 @@
 [submodule "plugin/nanobox-adapter-ubuntu"]
 	path = plugin/nanobox-adapter-ubuntu
 	url = https://github.com/sbsb3838/nanobox-adapter-ubuntu.git
+[submodule "doc/etl-tools"]
+	path = doc/etl-tools
+	url = https://github.com/sbsb3838/awesome-etl.git
+[submodule "doc/ipython-dashboard"]
+	path = doc/ipython-dashboard
+	url = https://github.com/sbsb3838/IPython-Dashboard.git
+[submodule "doc/web-scraping"]
+	path = doc/web-scraping
+	url = https://github.com/b-3838438/awesome-web-scraping.git
+[submodule "plugin/yoke"]
+	path = plugin/yoke
+	url = https://github.com/sbsb3838/yoke.git
