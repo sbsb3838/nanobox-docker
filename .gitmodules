@@ -3,10 +3,19 @@
 	url = https://github.com/3838438-cc/flask-admin.git
 [submodule "src/nanobox"]
 	path = src/nanobox
-	url = https://github.com/3838438-cc/nanobox.git
+	url = https://github.com/sbsb3838/nanobox.git
 [submodule "src/gitkube"]
 	path = src/gitkube
 	url = https://github.com/sbsb3838/gitkube.git
 [submodule "plugin/nanobox-flask"]
 	path = plugin/nanobox-flask
 	url = https://github.com/3838438-cc/nanobox-flask.git
+[submodule "plugin/shaman"]
+	path = plugin/shaman
+	url = https://github.com/sbsb3838/shaman.git
+[submodule "plugin/nanobox-engine-golang"]
+	path = plugin/nanobox-engine-golang
+	url = https://github.com/sbsb3838/nanobox-engine-golang.git
+[submodule "plugin/nanobox-adapter-ubuntu"]
+	path = plugin/nanobox-adapter-ubuntu
+	url = https://github.com/sbsb3838/nanobox-adapter-ubuntu.git
