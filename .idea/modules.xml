@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/nanobox-docker.iml" filepath="$PROJECT_DIR$/nanobox-docker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/site.iml" filepath="$PROJECT_DIR$/.idea/modules/site.iml" />
     </modules>
   </component>
 </project>

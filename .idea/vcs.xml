@@ -9,6 +9,7 @@
     <mapping directory="$PROJECT_DIR$/plugin/nanobox-engine-golang" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/plugin/nanobox-flask" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/plugin/shaman" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/plugin/yoke" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/gitkube" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/nanobox" vcs="Git" />
   </component>
